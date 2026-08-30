@@ -1,9 +1,9 @@
-# 📊 Code-Forces Profile Analyzer
+Code-Forces Profile Analyzer
 *A Data Science Project for Competitive Programming Performance Analysis*
 
 ---
 
-## 🚀 Project Idea
+## Project Idea
 This project analyzes real-time performance data of Codeforces users using public APIs. It evaluates:
 
 - Current and past contest ratings  
@@ -16,7 +16,7 @@ The goal is to provide clear insights, visualizations, and recommendations based
 
 ---
 
-## 🧩 Workframe / Approach
+## Workframe / Approach
 
 ### **1. Data Collection & Preprocessing**
 - Fetch API data (rating, submissions, problems)
@@ -40,7 +40,7 @@ The goal is to provide clear insights, visualizations, and recommendations based
 
 ---
 
-# 📝 Abstract
+# Abstract
 Competitive programming platforms like **Codeforces** hold valuable data on user performance.  
 The *Code-Forces Profile Analyzer* extracts this data using public APIs and performs:
 
@@ -64,7 +64,7 @@ Design and implement a data-science–based system that:
 
 ---
 
-# ⚙️ Procedure of Execution
+# Procedure of Execution
 
 ### **I. Data Preparation**
 - Encode categorical variables  
@@ -89,7 +89,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 🎯 Objectives
+# Objectives
 - Fetch real-time competitive programming data  
 - Apply the data science lifecycle  
 - Analyze user strengths & weaknesses  
@@ -98,7 +98,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Category | Tools Used |
 |----------|------------|
@@ -112,7 +112,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 🗂 Dataset Description
+# Dataset Description
 
 ### **5.1 Data Source**
 - Codeforces Public API  
@@ -127,7 +127,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 📦 Dataset Characteristics
+# Dataset Characteristics
 
 | Characteristic | Description |
 |----------------|-------------|
@@ -140,7 +140,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 🔄 Data Science Life Cycle
+# Data Science Life Cycle
 
 ### **7.1 Data Collection**
 - Fetch data using REST APIs  
@@ -178,7 +178,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 📅 GANTT Chart (Project Schedule)
+# GANTT Chart (Project Schedule)
 
 | Task | Week 1 | Week 2 | Week 3 |
 |------|--------|--------|--------|
@@ -191,7 +191,7 @@ Each graph is explained in terms of:
 | Report Writing | | | ✔️ |
 
 ---
-# 📚 Applied Data Structures
+# Applied Data Structures
 
 | Structure | Purpose |
 |----------|----------|
@@ -202,7 +202,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 🧾 Results & Outputs
+# Results & Outputs
 
 ### **11.1 Profile Summary**
 - Current rating  
@@ -233,7 +233,7 @@ Each graph is explained in terms of:
 
 ---
 
-# 🔮 Future Scope
+# Future Scope
 - Rating prediction using ML  
 - Export PDF performance reports  
 - Multi-user leaderboard comparison  
@@ -242,7 +242,7 @@ Each graph is explained in terms of:
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 The **Code-Forces Profile Analyzer** demonstrates a complete data science pipeline applied to real-world competitive programming data.  
 It enables users to understand their performance, identify skill gaps, compare growth, and get actionable insights.
 
@@ -250,6 +250,7 @@ It enables users to understand their performance, identify skill gaps, compare g
 
 # 📌 Author
 **Rishav Kumar**
+**Jayaditya Dutta**
 
 ---
 
