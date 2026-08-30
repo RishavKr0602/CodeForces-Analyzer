@@ -1,4 +1,4 @@
-Code-Forces Profile Analyzer
+"Code-Forces Profile Analyzer"
 *A Data Science Project for Competitive Programming Performance Analysis*
 
 ---
@@ -250,7 +250,7 @@ It enables users to understand their performance, identify skill gaps, compare g
 
 # 📌 Author
 **Rishav Kumar**
-**Jayaditya Dutta**
+**, Jayaditya Dutta**
 
 ---
 
